@@ -13,6 +13,8 @@ You can download the required files from the link below.
 👉 Official download page:  
 https://rainworlddownpourapk.blogspot.com/
 
+XDA Thread: https://xdaforums.com/t/development-stopped-port-unofficial-rain-world-downpour-android-vers-1-1.4772859/
+
 ## Files Included
 - APK file
 - Streaming Assets (required)

@@ -10,7 +10,7 @@ You can download the required files from the link below.
 - Rain World Downpour Android port
 - Rain World Downpour Android with streaming assets
 
-👉 Official download page:  
+👉 download page:  
 https://rainworlddownpourapk.blogspot.com/
 
 XDA Thread: https://xdaforums.com/t/development-stopped-port-unofficial-rain-world-downpour-android-vers-1-1.4772859/
